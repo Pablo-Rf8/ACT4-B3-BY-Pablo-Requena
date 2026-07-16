@@ -1,0 +1,21 @@
+{
+  "name": "act4-b3-by-pablo-requena",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pablo-Rf8/ACT4-B3-BY-Pablo-Requena.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pablo-Rf8/ACT4-B3-BY-Pablo-Requena/issues"
+  },
+  "homepage": "https://github.com/Pablo-Rf8/ACT4-B3-BY-Pablo-Requena#readme"
+}

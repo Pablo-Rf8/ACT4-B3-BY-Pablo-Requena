@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombreCompleto": "Leanne Graham",
+    "nombreUsuario": "Bret",
+    "correo": "Sincere@april.biz",
+    "empresa": "Romaguera-Crona"
+  },
+  {
+    "id": 2,
+    "nombreCompleto": "Ervin Howell",
+    "nombreUsuario": "Antonette",
+    "correo": "Shanna@melissa.tv",
+    "empresa": "Deckow-Crist"
+  },
+  {
+    "id": 3,
+    "nombreCompleto": "Clementine Bauch",
+    "nombreUsuario": "Samantha",
+    "correo": "Nathan@yesenia.net",
+    "empresa": "Romaguera-Jacobson"
+  }
+]
